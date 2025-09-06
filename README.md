@@ -34,7 +34,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://URL-DO-SEU-REPOSITORIO.git](https://URL-DO-SEU-REPOSITORIO.git)
+    git clone https://github.com/heron-ferrari/Amigo-Secreto.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
